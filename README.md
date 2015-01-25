@@ -1,5 +1,7 @@
 # device-spark
 
+# WORK IN PROGRESS
+
 Brewfactory Spark.io connector
 
 # Functionality
